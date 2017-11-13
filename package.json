@@ -1,0 +1,14 @@
+{
+  "name": "date2literalstring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Björn Andersson <bjorn.andersson@forsakringskassan.se>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
