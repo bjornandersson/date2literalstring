@@ -5,6 +5,9 @@ input (string): 20171113-3024
 
 output (string): tjugohundrasjutton elva tretton trettio tjugofyra
 
+### Why? 
+Accessibility! To make screen readers read identification numbers (and other numbers) in a more friendly way.
+
 ## TODO
 
 * Make it more dynamic (it only accepts input as Swedish identification number as of now)
