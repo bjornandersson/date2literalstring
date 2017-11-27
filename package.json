@@ -1,14 +1,23 @@
 {
   "name": "date2literalstring",
   "version": "1.0.0",
-  "description": "",
+  "description": "transcribes a date to its written with words counterpart",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "Björn Andersson <bjorn.andersson@forsakringskassan.se>",
-  "license": "ISC",
+  "author": "Björn Andersson <andersson.nc@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^21.2.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjornandersson/date2literalstring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bjornandersson/date2literalstring/issues"
+  },
+  "homepage": "https://github.com/bjornandersson/date2literalstring#readme"
 }
