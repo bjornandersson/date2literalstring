@@ -13,5 +13,3 @@ Accessibility! To make screen readers read identification numbers (and other num
 * Make it more dynamic (it only accepts input as Swedish identification number as of now)
 
 * Add language support
-
-* Make it an NPM package
