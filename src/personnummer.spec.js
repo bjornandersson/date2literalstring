@@ -1,7 +1,7 @@
-const Personnummer = require('./index.js').Personnummer;
+const Personnummer = require('./personnummer.js').Personnummer;
 const pnr = new Personnummer();
 
-test('Personnummer klassen ska finnas', function() {
+test('Personnummer klassen ska finnas', () => {
     expect(pnr).toBeDefined();
 });
 
