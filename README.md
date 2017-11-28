@@ -9,7 +9,7 @@ output (string): tjugohundrasjutton elva tretton trettio tjugofyra
 Accessibility! To make screen readers read identification numbers (and other numbers) in a more friendly way.
 
 ### NPM
-[https://www.npmjs.com/package/date2literalstring]
+https://www.npmjs.com/package/date2literalstring
 
 ## TODO
 
